@@ -1,0 +1,14 @@
+[
+    ["What fuel is used for manufacturing of chlorine?"],
+    ["What metric is used for evaluating emission?"],
+    ["How can carbon emission of the processes of cement clinker be reduced?"],
+    ["How is the Weighted Cogeneration Threshold calculated?"],
+    ["What is carbon capture and sequestration?"],
+    ["What stages does CCS consist of?"],
+    ["What should be the average energy consumption of a water supply system?"],
+    ["What are examples of sludge treatments?"],
+    ["How is the process of anaerobic digestion?"],
+    ["How is reforestation defined?"],
+    ["What is the threshold of emssion for inland passenger water transport?"], 
+    ["What are the requirements of reporting for electricity generation from natural gas where there might be fugative emissions?"]
+    ]
